@@ -11,7 +11,7 @@
 }
 .border{
     border: solid 5px;
-    border-color: white;
+    border-color: darkblue;
 }
 .title{
     text-align: center;
@@ -28,11 +28,11 @@
 }
 .font1{
     font-family:Arial, Helvetica, sans-serif;
-    font: white;
+    font: black;
 }
 .headerfont{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: dar;
+    color: darkblue;
     font-size: large;
 }
 .footer {
@@ -41,6 +41,6 @@
     right: 5px;
     height: 100px;
     border: solid 5px;
-    border-color: white;
+    border-color: darkblue;
     text-align:center
 }
