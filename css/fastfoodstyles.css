@@ -1,0 +1,43 @@
+.header{
+    top: 4px;
+    left: 4px;
+    right:4px;
+    height: 100px;
+    z-index: 2;
+    
+}
+.border{
+    border: solid 5px;
+    border-color: lightskyblue;
+}
+.title{
+    text-align: center;
+}
+.mainbody{
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    bottom: 20px;
+
+}
+.link{
+    text-align:right;
+}
+.font1{
+    font-family:Arial, Helvetica, sans-serif;
+    font: black;
+}
+.headerfont{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    font-size: large;
+}
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 5px;
+    border-color: lightskyblue;
+    text-align:center
+}
