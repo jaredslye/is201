@@ -6,9 +6,12 @@
     z-index: 2;
     
 }
+.background1{
+    background-color: lightskyblue;
+}
 .border{
     border: solid 5px;
-    border-color: lightskyblue;
+    border-color: darkblue;
 }
 .title{
     text-align: center;
@@ -29,7 +32,7 @@
 }
 .headerfont{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: blue;
+    color: darkblue;
     font-size: large;
 }
 .footer {
@@ -38,6 +41,6 @@
     right: 5px;
     height: 100px;
     border: solid 5px;
-    border-color: lightskyblue;
+    border-color: darkblue;
     text-align:center
 }
